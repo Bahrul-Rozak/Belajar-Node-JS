@@ -4,7 +4,7 @@ Halo semuanya!!, Selamat datang di repositori belajar node js dan di sini kita a
 ### Apa itu Node JS?
 
 Sebelum kita mempelajari Node Js lebih jauh alangkah lebih baiknya kita mengenal apa itu Node JS? <br>
-![image]("img/markdown/") <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/Documentation/Image/apaitunodejs.png) <br>
 Node Js adalah sebuah lingkungan atau environment untuk mengeksekusi kode-kode JavaScript dan Node JS
 Juga dikenal sebagai _Javascript runtime environment_ Dalam melaksanakan fungsi dan tugasnya Node JS
 menggunakan v8 yaitu mesin Javascript made by Google. V8 ditulis menggunakan C++ dan digunakan oleh Google
