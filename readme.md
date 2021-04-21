@@ -22,8 +22,8 @@ Node Js diyakini dapat menerima proses permintaan yang dikirimkan client dalam j
 1. Niat
 2. Laptop atau Komputer
 3. Text editor <br>
-   Di sini saya menggunakan visual studio code dan Visual Studio Code ini dapat berjalan di beberapa sistem operasi di antaranya windows, linux dan mac os
-   ![gambarvisualstudiocode]("#") <br>
+   Di sini saya menggunakan visual studio code dan Visual Studio Code ini dapat berjalan di beberapa sistem operasi di antaranya windows, linux dan mac os <br>
+   ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/Documentation/Image/visualstudiocode.png)
    Dan text editor ini berfungsi untuk menulis kode kode JavaScript, langsung saja kalian download Visual Studio Code nya di sini ![Gas](https://code.visualstudio.com/)
 4. Node JS <br>
    Kemudian Node JS langsung saja kalian unduh Node JS sesuai dengan OS yang kalian miliki
