@@ -14,4 +14,6 @@ Jadi REPL ini adalah mode yang dapat melakukan membaca input kemudian mengevalua
 
 ### Menjalankan Mode REPL
 Untuk menjalankan mode REPL ini, ketikan node pada terminal kalian kemudian ENTER <br>
-![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/image.png)
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/image.png) <br>
+Di Mode REPL ini Anda dapat melakukan operasi matematika seperti penjumlahan, pengurangan,pembagian, perkalian, mantap :v <br>
+
