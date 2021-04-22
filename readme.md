@@ -1,5 +1,9 @@
 Assalamualaikum wr wb! <br>
 Halo semuanya!!, Selamat datang di repositori belajar node js dan di sini kita akan sama sama belajar node js tentunya :)
+| Modul  | Pembahasan |
+| -----  | --- |
+| 01     | Apa itu Node JS    |
+| 02     | Mode REPL Node JS  |
 
 ### Apa itu Node JS?
 
