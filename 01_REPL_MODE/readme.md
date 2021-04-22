@@ -13,4 +13,5 @@ L = Loop <br>
 Jadi REPL ini adalah mode yang dapat melakukan membaca input kemudian mengevaluasi kode yang telah dibaca kemudian Menampilkan hasil dan mode (Read, Eval, Print) tersebut dapat diulangi atau di Loop secara terus menerus, sampai bosan :v 
 
 ### Menjalankan Mode REPL
-Untuk menjalankan mode REPL ini, ketikan node pada terminal kalian
+Untuk menjalankan mode REPL ini, ketikan node pada terminal kalian kemudian ENTER <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/image.png)
