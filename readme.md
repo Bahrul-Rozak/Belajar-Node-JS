@@ -3,7 +3,7 @@ Halo semuanya!!, Selamat datang di repositori belajar node js dan di sini kita a
 | Modul  | Pembahasan |
 | -----  | --- |
 | 01     | Apa itu Node JS    |
-| 02     | Mode REPL Node JS  |
+| 02     | [Mode REPL Node JS](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/01_REPL_MODE)  |
 
 ### Apa itu Node JS?
 
