@@ -32,6 +32,7 @@ for (i=0; i <x; i++){
 Seperti yang Anda lihat undefined akan di tampilkan di terminal hal ini menunjukkan bahwa perintah yang dieksekusi tidak akan mengembalikan nilai, keren :v 
 <br>
 Selain itu dengan Terminal REPL Anda dapat melakukan hal keren lainnya seperti <br>
-1. Menulis Ekpresi sederhana
-2. Menyimpan nilai terakhir
-3. Menggunakan variable
+1. Menulis Ekpresi sederhana <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/ekpresi.png) <br>
+3. Menyimpan nilai terakhir
+4. Menggunakan variable
