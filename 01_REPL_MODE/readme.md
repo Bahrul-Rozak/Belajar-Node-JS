@@ -34,5 +34,7 @@ Seperti yang Anda lihat undefined akan di tampilkan di terminal hal ini menunjuk
 Selain itu dengan Terminal REPL Anda dapat melakukan hal keren lainnya seperti <br>
 1. Menulis Ekpresi sederhana <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/ekpresi.png) <br>
-3. Menyimpan nilai terakhir
-4. Menggunakan variable
+2. Menyimpan nilai terakhir <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/menyimpan.png) <br>
+Dengan menggunakan tanda underscore Node Js dapat menyimpan nilai yang terakhir kali di eksekusi 
+3. Menggunakan variable
