@@ -60,3 +60,15 @@ Selain Anda dapat membuat function Anda pun dapat membuat object di dalam mode R
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/object.png) <br>
 Nah pada contoh tersebut kita membuat sebuah object dengan nama obj yang akan menggambarkan persegi panjang dan objek tersebut memiliki properti berupa panjang dan dan lebar dan memiliki method luas 
 
+### Perintah dalam Mode REPL
+Ada beberapa perintah yang dapat Anda gunakan ketika menggunakan mode REPL ini, <br>
+| Perintah  | Kegunaan |
+| -----  | --- |
+| Ctrl + C     | Keluar dari perintah yang sedang aktif    |
+| Ctrl + D     | Keluar dari mode REPL    |
+| Tombol Tab     | Melengkapi perintah tanpa harus mengetik ulang    |
+| Tombol Panah Atas dan Bawah     | Perintah sebelum dan sesudah yang telah di gunakan dalam mode REPL    |
+
+Alhamdulillah pembahasan mode REPL Node Js telah selesai, apabila repository ini bermanfaat jangan lupa di share ke teman - teman yang lain agar semakin banyak yang belajar. <br>
+_Thank You! 
+
