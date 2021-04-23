@@ -41,4 +41,9 @@ Dengan menggunakan tanda underscore Node Js dapat menyimpan nilai yang terakhir 
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/anonymousvar.png) <br>
 Seperti yang Anda lihat di atas variable a di definisikan tanpa menggunakan keyword var, dan oleh karena itu nilainya akan langsung di cetak dan ketika Anda menggunakan keyword var maka Anda dapat dengan mudah memanggil variable tersebut saat di butuhkan contohnya seperti ini :v <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/variable.png) <br>
-Nah seperti yang Anda lihat Anda dapat menggunakan variable tersebut kapanpun Anda membutuhkannya, contoh lain
+Nah seperti yang Anda lihat Anda dapat menggunakan variable tersebut kapanpun Anda membutuhkannya, contoh lain <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/var.png) <br>
+Mantap kan? Lanjut? Lanjuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuut! <br>
+
+### Beberapa Baris Perintah 
+Kalau sebelumnya kita hanya menggunakan perintah atau mode REPL ini hanya satu baris saja, ternyata kita pun dapat menggunakan perintah untuk banyak baris, mantap :v <br>
