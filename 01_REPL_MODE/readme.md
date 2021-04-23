@@ -57,4 +57,6 @@ Seperti yang Anda lihat kita telah membuat fungsi untuk melakukan perkalian dan 
 
 ### Membuat Object
 Selain Anda dapat membuat function Anda pun dapat membuat object di dalam mode REPL <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/object.png) <br>
+Nah pada contoh tersebut kita membuat sebuah object dengan nama obj yang akan menggambarkan persegi panjang dan objek tersebut memiliki properti berupa panjang dan dan lebar dan memiliki method luas 
 
