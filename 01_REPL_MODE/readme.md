@@ -37,4 +37,6 @@ Selain itu dengan Terminal REPL Anda dapat melakukan hal keren lainnya seperti <
 2. Menyimpan nilai terakhir <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/menyimpan.png) <br>
 Dengan menggunakan tanda underscore Node Js dapat menyimpan nilai yang terakhir kali di eksekusi 
-3. Menggunakan variable
+3. Menggunakan variable <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/anonymousvar.png) <br>
+Seperti yang Anda lihat di atas variable a di definisikan tanpa menggunakan keyword var, dan oleh karena itu nilainya akan langsung di cetak dan ketika Anda menggunakan keyword var maka Anda dapat dengan mudah memanggil variable tersebut saat di butuhkan contohnya seperti ini :v 
