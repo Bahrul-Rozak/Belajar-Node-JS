@@ -55,3 +55,6 @@ Ternyata di mode REPL ini Anda dapat membuat function atau fungsi! waw!! <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/function.png) <br>
 Seperti yang Anda lihat kita telah membuat fungsi untuk melakukan perkalian dan saat Anda menambahkan argument (parameter aktual) yang akan di kirim kembali ke fungsi maka hasil akan di cetak :v 
 
+### Membuat Object
+Selain Anda dapat membuat function Anda pun dapat membuat object di dalam mode REPL <br>
+
