@@ -47,3 +47,5 @@ Mantap kan? Lanjut? Lanjuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuut! <br>
 
 ### Beberapa Baris Perintah 
 Kalau sebelumnya kita hanya menggunakan perintah atau mode REPL ini hanya satu baris saja, ternyata kita pun dapat menggunakan perintah untuk banyak baris, mantap :v <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/multirow.png) <br>
+Seperti yang Anda lihat akan muncul banyak baris :v dan Anda tidak perlu mengkhawatrikan tanda titik tiga tersebut karena hal tersebut menunjukkan perintah lanjutan dari perintah sebelumnya, mantap? Mantap min :v 
