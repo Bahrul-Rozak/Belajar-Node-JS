@@ -40,5 +40,5 @@ Node Js diyakini dapat menerima proses permintaan yang dikirimkan client dalam j
 
    ### Note
 
-   _Jika Anda menemukan kesalahan penulisan atau code sudah deprecated :v silahkan laporkan ke admin_<br>
+   _Jika Anda menemukan kesalahan penulisan atau code sudah deprecated :v silahkan laporkan ke [Admin](https://t.me/zakcodes)_<br>
    Terima Kasih
