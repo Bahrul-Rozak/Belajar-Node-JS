@@ -28,8 +28,9 @@ Node Js diyakini dapat menerima proses permintaan yang dikirimkan client dalam j
 ### Persiapan belajar Node JS
 
 1. Niat
-2. Laptop atau Komputer
-3. Text editor <br>
+2. Memahami konsep Javascript
+3. Laptop atau Komputer
+4. Text editor <br>
    Di sini saya menggunakan visual studio code dan Visual Studio Code ini dapat berjalan di beberapa sistem operasi di antaranya windows, linux dan mac os <br>
    ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/Documentation/Image/visualstudiocode.png)
    Dan text editor ini berfungsi untuk menulis kode kode JavaScript yang nanti akan di eksekusi oleh Node JS, langsung saja kalian download Visual Studio Code nya di sini [gaskan!](https://code.visualstudio.com/)
