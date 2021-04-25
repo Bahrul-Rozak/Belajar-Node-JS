@@ -32,9 +32,9 @@ menggunakan perintah <br>
 npm install express --save
 ```
 
-![installexpress]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/installexpress.png) <br>
 Kemudian Anda lihat kembali file package.json Anda maka Anda akan melihat express dan versinya <br>
-![valid]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/valid.png) <br>
 Ajaib min :v dan untuk saat ini kalian telah berhasil melakukan setup workspace untuk project Anda
 
 ### Membuat Web Server
@@ -58,14 +58,14 @@ app.listen(5000, function () {
 module.exports = app;
 ```
 
-![webserver]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/webserver.png) <br>
 dan untuk menjalankan Anda ketik perintah pada terminal <br>
 
 ```
 node index.js
 ```
 
-![runserver]()<br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/runserver.png)<br>
 Dan Anda akan melihat bahwa server berjalan di localhost 5000 kemudian Anda copy saja link tersebut dan tempelkan pada browser Anda <br>
-![result]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/result.png) <br>
 dan Anda telah berhasil membuat web server pertama Anda, alhamdulillah
