@@ -16,15 +16,15 @@ npm init
 ```
 
 pada terminal Anda <br>
-![init]()<br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/initial.png)<br>
 kemudian Anda akan di minta untuk melengkapi file project Anda untuk membuat sebuah file package.json yang berguna untuk mengontrol project Anda <br>
-![input]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/inputdata.png) <br>
 Jika Anda mendapatkan perintah yes langsung saja enter, maka akan muncul tampilan seperti ini <br>
-![Enter]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/enter.png) <br>
 Kemudian langsung saja Anda buka visual studio code Anda kemudian buka folder project tersebut <br>
-![open]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/openvscode.png) <br>
 Dan Anda akan melihat file package.json tersebut, keren min :v <br>
-![filejson]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/filejson.png) <br>
 Nah kemudian Anda Install Expressnya, bisa mengunakan terminal pada Visual Studio Code atau Langsung pada terminal device Anda :v <br>
 menggunakan perintah <br>
 
