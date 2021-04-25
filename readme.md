@@ -4,7 +4,7 @@ Halo semuanya!!, Selamat datang di repositori belajar node js dan di sini kita a
 | -----  | --- |
 | 01     | Apa itu Node JS    |
 | 02     | [Mode REPL Node JS](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/01_REPL_MODE)  |
-| 03     | Insya Allah Coming Soon |
+| 03     | [Mengenal Express](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/02_Mengenal_Express) |
 | 04     | Insya Allah Coming Soon |
 | 05     | Insya Allah Coming Soon |
 | 06     | Insya Allah Coming Soon |
