@@ -7,7 +7,7 @@ Meskipun proses pembuatan web dapat dilakukan secara manual tanpa menggunakan fr
 ### Menggunakan Express
 
 Untuk dapat menggunakan express Anda terlebih dahulu harus menyiapkan satu buah folder project dan letakkan folder tersebut di tempat yang mudah Anda temukan, di sini saya akan meletakan folder tersebut pada Desktop :v
-![mkdir]() <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/mkdir.png) <br>
 ![projectfolder]() <br>
 Kemudian lakukan inisialisasi pada project Anda dengan menggunakan perintah <br>
 
