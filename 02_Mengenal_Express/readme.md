@@ -69,4 +69,9 @@ node index.js
 Dan Anda akan melihat bahwa server berjalan di localhost 5000 kemudian Anda copy saja link tersebut dan tempelkan pada browser Anda <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/result.png) <br>
 dan Anda telah berhasil membuat web server pertama Anda, alhamdulillah pembahasan tentang Express telah selesai, <br>
-Jangan lupa share repositori agar teman-teman yang lain juga dapat belajar tanang aja FREE kok :v 
+Jangan lupa share repositori agar teman-teman yang lain juga dapat belajar tenang aja FREE kok :v 
+
+ ### Note
+
+   _Jika Anda menemukan kesalahan penulisan atau code sudah deprecated :v silahkan laporkan ke [Admin](https://t.me/zakcodes)_<br>
+   Terima Kasih
