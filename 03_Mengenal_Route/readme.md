@@ -28,3 +28,41 @@ app.patch("/", (req, res) => {
 /* */
 });
 ```
+
+Yuk langsung saja kita coba membuat Route sederhana 
+```
+const express = require("express");
+const app = express();
+app.get("/", (req, res) => {
+    res.send("Assalamualaikum, halo selamat datang di web pertama saya");
+});
+app.listen(5000, (req, res) => {
+    console.log("Server is running with <http://localhost:5000>");
+});
+```
+kemudian  tambahkan rute /about 
+```
+app.get('/', (req, res) => {
+    res.send('ini rute utama atau root')
+})
+app.get('/about', (req, res) => {
+    res.send('ini rute /about')
+})
+```
+Sehingga kode menjadi seperti ini 
+```
+const express = require("express");
+const app = express();
+app.get("/", (req, res) => {
+    res.send("Assalamualaikum, halo selamat datang di web pertama saya");
+});
+app.listen(5000, (req, res) => {
+    console.log("Server is running with <http://localhost:5000>");
+});
+app.get('/', (req, res) => {
+    res.send('ini rute utama atau root')
+})
+app.get('/about', (req, res) => {
+    res.send('ini rute /about')
+})
+```
