@@ -40,6 +40,9 @@ app.listen(5000, (req, res) => {
     console.log("Server is running with <http://localhost:5000>");
 });
 ```
+Jika Anda jalankan maka akan muncul seperti ini <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/03_Mengenal_Route/image/rute.png) <br>
+
 kemudian  tambahkan rute /about 
 ```
 app.get('/', (req, res) => {
