@@ -52,6 +52,9 @@ app.get('/about', (req, res) => {
     res.send('ini rute /about')
 })
 ```
+Jika Anda jalankan maka akan muncul seperti ini <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/03_Mengenal_Route/image/about.png) <br>
+
 Sehingga kode menjadi seperti ini 
 ```
 const express = require("express");
