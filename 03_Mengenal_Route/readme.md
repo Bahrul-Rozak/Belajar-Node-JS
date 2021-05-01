@@ -9,7 +9,7 @@ Mendengar kata atau istilah Route pasti teman-teman akan terbayang bahwa itu ada
 3. PUT / PATCH
 4. DELETE
 
-Pada express teman-teman tidak perlu khawatir masalah penggunaan Route atau rute karena HTTP Methode ini pada express telah menyediakan bisa dipakai yaitu: get() , post() , put() , delete() , patch().
+Pada express teman-teman tidak perlu khawatir masalah penggunaan Route atau rute karena HTTP Methode ini pada express telah menyediakan function yang biasa dipakai yaitu: get() , post() , put() , delete() , patch().
 
 ```
 app.get("/", (req, res) => {
