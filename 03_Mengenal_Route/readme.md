@@ -76,4 +76,7 @@ Ketika server dijalankan, kita telah memiliki 2 rute yaitu rute / dan /about <br
 
 Catatan: <br>
 req adalah parameter yang berfungsi sebagai request dari user ke server <br>
-res adalah parameter yang berfungsi sebagai response dari server untuk user
+res adalah parameter yang berfungsi sebagai response dari server untuk user <br>
+
+Alhamdulillah hari ini kita sudah belajar mengenal route, sampai jumpa di materi berikutnya <br>
+Semoga bermanfaat dan terima kasih :) 
