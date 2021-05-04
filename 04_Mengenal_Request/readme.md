@@ -37,3 +37,4 @@ app.listen(5000, function() {
 
 module.exports = app;
 ```
+Kemudian kita uji dan ini adalah hasil dengan menggunakan insomnia
