@@ -40,3 +40,9 @@ module.exports = app;
 Kemudian kita uji dan ini adalah hasil dengan menggunakan insomnia <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/04_Mengenal_Request/image/result.jpg) <br>
 Express telah menyediakan properti-properti yang bertindak sebagai request, berikut beberapa daftar request yang disediakan oleh express:
+| Properti  | Deskripsi |
+| -----  | --- |
+| .app     | Referensi object pada express    |
+| .cookies | Berisi informasi cookie yang dikirim, ini dapat digunakan jika
+menggunakan middleware cookie-parser|
+
