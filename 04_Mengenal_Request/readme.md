@@ -50,5 +50,14 @@ Express telah menyediakan properti-properti yang bertindak sebagai request, beri
 | .params | Menampilkan informasi sesuai dengan nama parameter |
 | .path | Menampilkan informasi jalur URL |
 | .protocol | Menampilkan protocol request |
-| .query |
+| .query | Objek yang berisi informasi query dari request yang berlangsung |
+| .secure | true jika request merupakan reques yang secure (digunakan pada HTTPS |
+| .signedCookies | Berisi signed cookies oleh request, dapat digunakan jika menggunakan middleware cokie-parser |
+| .xhr | Bernilai true jika request adalah XMLHttpRequest |
+| .body | Berisi data yang dituliskan pada body request |
+| .header | Berisi data yang dituliskan pada header request |
+| .baseUrl | Informasi pengalamatan utama web server |
+| .originalUrl | Informasi pengalamatan request dilakukan |
+<br>
+Nah dari sekian banyak properti kita akan mencoba menggunakan salah satunya saja yaitu .query
 
