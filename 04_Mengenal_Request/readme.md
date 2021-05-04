@@ -63,6 +63,8 @@ app.get("/login", (req, res) => {
   res.send("silahkan Login terlebih dahulu");
 });
 ```
+Alhamdulillah pembahasan Request dan Response telah selesai, apabila repository ini bermanfaat jangan lupa di share ke teman - teman yang lain agar semakin banyak yang belajar.
+_Thank You!
 
 
 
