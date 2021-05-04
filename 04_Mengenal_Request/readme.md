@@ -59,10 +59,8 @@ Express telah menyediakan properti-properti yang bertindak sebagai request, beri
 | .baseUrl | Informasi pengalamatan utama web server |
 | .originalUrl | Informasi pengalamatan request dilakukan |
 <br>
-Nah dari sekian banyak properti kita akan mencoba menggunakan salah satunya saja yaitu .query 
-```
-?detail=harga&produk=baru
-```
+Nah dari sekian banyak properti kita akan mencoba menggunakan salah satunya saja yaitu .query <br>
+?detail=harga&produk=baru <br>
 Kemudian kita tambahkan code berikut dan uji lagi dengan insomina :v 
 
 
