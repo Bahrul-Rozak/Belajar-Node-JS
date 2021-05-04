@@ -60,6 +60,7 @@ Express telah menyediakan properti-properti yang bertindak sebagai request, beri
 | .originalUrl | Informasi pengalamatan request dilakukan |
 <br>
 Nah dari sekian banyak properti kita akan mencoba menggunakan salah satunya saja yaitu .query 
+<br>
 ```
 ?detail=harga&produk=baru
 ```
