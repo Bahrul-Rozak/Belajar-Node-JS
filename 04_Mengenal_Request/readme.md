@@ -43,6 +43,12 @@ Express telah menyediakan properti-properti yang bertindak sebagai request, beri
 | Properti  | Deskripsi |
 | -----  | --- |
 | .app     | Referensi object pada express    |
-| .cookies | Berisi informasi cookie yang dikirim, ini dapat digunakan jika
-menggunakan middleware cookie-parser|
+| .cookies | Berisi informasi cookie yang dikirim, ini dapat digunakan jika menggunakan middleware cookie-parser|
+| .hostname | Informasi hosname web server |
+| .ip | Informasi IP server |
+| .method | HTTP Methode yang digunakan |
+| .params | Menampilkan informasi sesuai dengan nama parameter |
+| .path | Menampilkan informasi jalur URL |
+| .protocol | Menampilkan protocol request |
+| .query |
 
