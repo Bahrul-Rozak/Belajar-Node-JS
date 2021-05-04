@@ -40,7 +40,7 @@ module.exports = app;
 Kemudian kita uji dan ini adalah hasil dengan menggunakan insomnia <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/04_Mengenal_Request/image/result.jpg) <br>
 Express telah menyediakan properti-properti yang bertindak sebagai request, berikut beberapa daftar request yang disediakan oleh express:
-<br>
+[Silahkan baca disini](https://www.javatpoint.com/expressjs-request) <br>
 Nah dari sekian banyak properti kita akan mencoba menggunakan salah satunya saja yaitu .query <br>
 ?detail=harga&produk=baru <br>
 Kemudian kita tambahkan code berikut dan uji lagi dengan insomnia :v <br>
