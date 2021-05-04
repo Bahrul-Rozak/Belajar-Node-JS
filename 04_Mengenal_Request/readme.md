@@ -53,7 +53,17 @@ Penulisan query pada request diawali dengan tanda ? setelah endpoint, dan jika a
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/04_Mengenal_Request/image/query.jpg) <br>
 
 ### Response
-Ada satu lagi yang lupa saya buat yaitu response, Kebalikan dari request, response adalah proses layanan yang diberikan server pada client yang melakukan request. Sama halnya dengan request, function atau method response sangat banyak yang disediakan oleh express.
+Ada satu lagi yang lupa saya buat yaitu response, Kebalikan dari request, response adalah proses layanan yang diberikan server pada client yang melakukan request. Sama halnya dengan request, function atau method response sangat banyak yang disediakan oleh express. contoh penggunaan .redirect()
+```
+app.get("/profile", (req, res) => {
+  res.redirect("/login");
+});
+
+app.get("/login", (req, res) => {
+  res.send("silahkan Login terlebih dahulu");
+});
+```
+
 
 
 
