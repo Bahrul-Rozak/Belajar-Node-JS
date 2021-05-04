@@ -37,4 +37,5 @@ app.listen(5000, function() {
 
 module.exports = app;
 ```
-Kemudian kita uji dan ini adalah hasil dengan menggunakan insomnia
+Kemudian kita uji dan ini adalah hasil dengan menggunakan insomnia <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/04_Mengenal_Request/image/result.jpg)
