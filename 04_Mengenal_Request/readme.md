@@ -43,7 +43,12 @@ Express telah menyediakan properti-properti yang bertindak sebagai request, beri
 <br>
 Nah dari sekian banyak properti kita akan mencoba menggunakan salah satunya saja yaitu .query <br>
 ?detail=harga&produk=baru <br>
-Kemudian kita tambahkan code berikut dan uji lagi dengan insomina :v <br>
+Kemudian kita tambahkan code berikut dan uji lagi dengan insomnia :v <br>
+```
+app.get("/halaman-website", (req, res) => {
+    res.send("halaman-website dengan http " + req.query.detail + " dan " + req.query.produk);
+});
+```
 Penulisan query pada request diawali dengan tanda ? setelah endpoint, dan jika ada beberapa query dipisahkan dengan tanda &. Query memiliki key dan value, key sebelah kiri dari tanda = dan value berada pada sebelah kanan tanda = <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/04_Mengenal_Request/image/query.jpg) <br>
 
