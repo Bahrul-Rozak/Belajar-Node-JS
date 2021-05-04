@@ -40,24 +40,6 @@ module.exports = app;
 Kemudian kita uji dan ini adalah hasil dengan menggunakan insomnia <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/04_Mengenal_Request/image/result.jpg) <br>
 Express telah menyediakan properti-properti yang bertindak sebagai request, berikut beberapa daftar request yang disediakan oleh express:
-| Properti  | Deskripsi |
-| -----  | --- |
-| .app     | Referensi object pada express    |
-| .cookies | Berisi informasi cookie yang dikirim, ini dapat digunakan jika menggunakan middleware cookie-parser|
-| .hostname | Informasi hosname web server |
-| .ip | Informasi IP server |
-| .method | HTTP Methode yang digunakan |
-| .params | Menampilkan informasi sesuai dengan nama parameter |
-| .path | Menampilkan informasi jalur URL |
-| .protocol | Menampilkan protocol request |
-| .query | Objek yang berisi informasi query dari request yang berlangsung |
-| .secure | true jika request merupakan reques yang secure (digunakan pada HTTPS |
-| .signedCookies | Berisi signed cookies oleh request, dapat digunakan jika menggunakan middleware cokie-parser |
-| .xhr | Bernilai true jika request adalah XMLHttpRequest |
-| .body | Berisi data yang dituliskan pada body request |
-| .header | Berisi data yang dituliskan pada header request |
-| .baseUrl | Informasi pengalamatan utama web server |
-| .originalUrl | Informasi pengalamatan request dilakukan |
 <br>
 Nah dari sekian banyak properti kita akan mencoba menggunakan salah satunya saja yaitu .query <br>
 ?detail=harga&produk=baru <br>
