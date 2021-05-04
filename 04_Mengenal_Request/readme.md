@@ -52,6 +52,8 @@ app.get("/halaman-website", (req, res) => {
 Penulisan query pada request diawali dengan tanda ? setelah endpoint, dan jika ada beberapa query dipisahkan dengan tanda &. Query memiliki key dan value, key sebelah kiri dari tanda = dan value berada pada sebelah kanan tanda = <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/04_Mengenal_Request/image/query.jpg) <br>
 
+### Response
+Ada satu lagi yang lupa saya buat yaitu response, Kebalikan dari request, response adalah proses layanan yang diberikan server pada client yang melakukan request. Sama halnya dengan request, function atau method response sangat banyak yang disediakan oleh express.
 
 
 
