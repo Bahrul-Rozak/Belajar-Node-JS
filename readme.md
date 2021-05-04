@@ -8,6 +8,10 @@ Halo semuanya!!, Selamat datang di repositori belajar node js dan di sini kita a
 | 04     | [Mengenal Route](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/03_Mengenal_Route)     |
 | 05     | [Mengenal Request & Response](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/04_Mengenal_Request) |
 | 06     | Insya Allah Coming Soon |
+| 07     | Insya Allah Coming Soon |
+| 08     | Insya Allah Coming Soon |
+| 09     | Insya Allah Coming Soon |
+
 
 ### Apa itu Node JS?
 
