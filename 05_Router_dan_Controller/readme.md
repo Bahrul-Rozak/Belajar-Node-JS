@@ -6,7 +6,7 @@ Hari ini kita akan belajar Router dan Controller dan dipelajaran sebelumnya kita
 3. Sehingga susunan folder project akan seperti berikut <br>
 
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/folder.jpg) <br>
-Kemudian kita tambahkan code berikut ke file router.js <br>
+Kemudian kita tambahkan code berikut ke file router.js copy code [disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/routes/router.js)<br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/router.png) <br>
 Kemudian kita rubah file index.js dengan menambahkan kode berikut <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/index.png) <br>
