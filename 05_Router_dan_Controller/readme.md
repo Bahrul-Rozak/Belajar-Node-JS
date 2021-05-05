@@ -41,5 +41,6 @@ app.listen(5000, function () {
 
 module.exports = app;
 ```
+Kemudian kita uji coba kembali menggunakan insomnia dan jika tidak ada perubahan maka kita telah berhasil memisahkan antara file server dengan router
 
 
