@@ -24,8 +24,17 @@ app.put("/halaman-website", function(request, response) {
 app.delete("/halaman-website", function(request, response) {
     response.send("halaman-website dengan http " + request.method);
 });
+
 app.get("/halaman-website", (req, res) => {
     res.send("halaman-website dengan http " + req.query.detail + " dan " + req.query.produk);
+});
+
+router.get("/profile", (req, res) => {
+  res.redirect("/login");
+});
+
+router.get("/login", (req, res) => {
+  res.send("silahkan Login terlebih dahulu");
 });
 
 module.exports = app;
