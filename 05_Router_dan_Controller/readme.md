@@ -20,7 +20,8 @@ dan buat sebuah file dengan nama website.controller.js copy code [disini](https:
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/website.png) <br>
 Modifikasi file router.js menjadi seperti berikut. <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/modifikasirouter.png) <br>
-Kemudian uji lagi dengan insomnia dan apabila tidak ada perubahan berarti kita telah berhasil 
+Kemudian uji lagi dengan insomnia dan apabila tidak ada perubahan berarti kita telah berhasil <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/result.png)
 
 
 
