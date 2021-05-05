@@ -23,7 +23,8 @@ Modifikasi file router.js menjadi seperti berikut. <br>
 Kemudian uji lagi dengan insomnia dan apabila tidak ada perubahan berarti kita telah berhasil <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/result.png) <br>
 
-Alhamdulillah pembahasan Router dan Controller telah selesai
+Alhamdulillah pembahasan Router dan Controller telah selesai apabila repository ini bermanfaat jangan lupa di share ke teman - teman yang lain agar semakin banyak yang belajar. <br>
+_Thank You!
 
 
 
