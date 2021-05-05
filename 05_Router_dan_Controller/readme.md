@@ -3,41 +3,41 @@ Buatlah folder baru pada proyek kita dengan nama routes dan isinya file router.j
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/folder.jpg) <br>
 Kemudian kita tambahkan code berikut ke file router.js <br>
 ```
-const express = require("express");
-const app = express();
-app.get("/", function(request, response) {
-    response.send("Assalamualaikum!");
+const router = require("express").Router();
+
+router.get("/", function(request, response) {
+    response.send("Assalamualaikum");
 });
 
-app.get("/halaman-website", function(request, response) {
+router.get("/halaman-website", function(request, response) {
     response.send("halaman-website dengan http " + request.method);
 });
 
-app.post("/halaman-website", function(request, response) {
+router.post("/halaman-website", function(request, response) {
     response.send("halaman-website dengan http " + request.method);
 });
 
-app.put("/halaman-website", function(request, response) {
+router.put("/halaman-website", function(request, response) {
     response.send("halaman-website dengan http " + request.method);
 });
 
-app.delete("/halaman-website", function(request, response) {
+router.delete("/halaman-website", function(request, response) {
     response.send("halaman-website dengan http " + request.method);
 });
 
-app.get("/halaman-website", (req, res) => {
+router.get("/halaman-website", (req, res) => {
     res.send("halaman-website dengan http " + req.query.detail + " dan " + req.query.produk);
 });
 
 router.get("/profile", (req, res) => {
-  res.redirect("/login");
+    res.redirect("/login");
 });
 
 router.get("/login", (req, res) => {
-  res.send("silahkan Login terlebih dahulu");
+    res.send("silahkan Login terlebih dahulu");
 });
 
-module.exports = app;
+module.exports = router;
 ```
 Kemudian kita rubah file index.js dengan menambahkan kode berikut 
 ```
