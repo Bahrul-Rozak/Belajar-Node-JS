@@ -2,12 +2,12 @@ Assalamualaikum wr wb! <br>
 Halo semuanya!!, Selamat datang di repositori belajar node js dan di sini kita akan sama sama belajar node js tentunya :)
 | Modul  | Pembahasan |
 | -----  | --- |
-| 01     | Apa itu Node JS    |
-| 02     | [Mode REPL Node JS](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/01_REPL_MODE)       |
-| 03     | [Mengenal Express](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/02_Mengenal_Express) |
-| 04     | [Mengenal Route](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/03_Mengenal_Route)     |
+| 01     | Apa itu Node JS                                                                                              |
+| 02     | [Mode REPL Node JS](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/01_REPL_MODE)                  |
+| 03     | [Mengenal Express](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/02_Mengenal_Express)            |
+| 04     | [Mengenal Route](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/03_Mengenal_Route)                |
 | 05     | [Mengenal Request & Response](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/04_Mengenal_Request) |
-| 06     | Insya Allah Coming Soon |
+| 06     | [Router & Controller](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/05_Router_dan_Controller)    |
 | 07     | Insya Allah Coming Soon |
 | 08     | Insya Allah Coming Soon |
 | 09     | Insya Allah Coming Soon |
