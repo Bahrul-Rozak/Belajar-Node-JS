@@ -14,6 +14,8 @@ Kemudian kita uji coba kembali menggunakan insomnia dan jika tidak ada perubahan
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/hasil.png) 
 
 ### Controller
-Controller adalah proses melakukan kontrol atau logika dan komputasi pada sebuah aplikasi sebelum dikirimkan ke user sebagai response. Disini kontrol masih bergabung dengan router. Mari kita buat sebuah folder dengan nama controller dan buat sebuah file dengan nama website.controller.js 
+Controller adalah proses melakukan kontrol atau logika dan komputasi pada sebuah aplikasi sebelum dikirimkan ke user sebagai response. Disini kontrol masih bergabung dengan router. Mari kita buat sebuah folder dengan nama controller <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/website.png) <br>
+dan buat sebuah file dengan nama website.controller.js <br>
 
 
