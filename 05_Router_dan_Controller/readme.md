@@ -24,6 +24,9 @@ app.put("/halaman-website", function(request, response) {
 app.delete("/halaman-website", function(request, response) {
     response.send("halaman-website dengan http " + request.method);
 });
+app.get("/halaman-website", (req, res) => {
+    res.send("halaman-website dengan http " + req.query.detail + " dan " + req.query.produk);
+});
 
 module.exports = app;
 ```
