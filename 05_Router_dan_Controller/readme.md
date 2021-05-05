@@ -18,5 +18,7 @@ Controller adalah proses melakukan kontrol atau logika dan komputasi pada sebuah
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/foldercontroller.png) <br>
 dan buat sebuah file dengan nama website.controller.js copy code [disini](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/controller/website.controller.js)<br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/05_Router_dan_Controller/image/website.png) <br>
+Modifikasi file router.js menjadi seperti berikut. <br>
+
 
 
