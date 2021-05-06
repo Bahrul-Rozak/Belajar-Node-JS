@@ -6,13 +6,13 @@ Mungkin ini sekian banyak dari pertanyaan teman-teman dan tentu saya sendiri men
 
 ### Apa saja itu?
 
-1. Node JS
+1. Node JS <br>
    Di sini saya asumsikan bahwa teman-teman pasti sudah menginstall Node JS hehe
-2. MySQL Server
+2. MySQL Server <br>
    Di sini teman-teman dapat menggunakan XAMPP, MAMP atau LAMPP
-3. Code Editor
+3. Code Editor <br>
    Boleh menggunakan visual studio code, sublime, atom dll hehehe
-4. Browser
+4. Browser <br>
 5. Lets go !!
 
 ### Deskripsi Project
