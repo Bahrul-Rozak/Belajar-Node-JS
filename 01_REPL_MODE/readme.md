@@ -64,10 +64,10 @@ Nah pada contoh tersebut kita membuat sebuah object dengan nama obj yang akan me
 Ada beberapa perintah yang dapat Anda gunakan ketika menggunakan mode REPL ini, <br>
 | Perintah  | Kegunaan |
 | -----  | --- |
-| Ctrl + C     | Keluar dari perintah yang sedang aktif    |
-| Ctrl + D     | Keluar dari mode REPL    |
-| Tombol Tab     | Melengkapi perintah tanpa harus mengetik ulang    |
-| Tombol Panah Atas dan Bawah     | Perintah sebelum dan sesudah yang telah di gunakan dalam mode REPL    |
+| Ctrl + C     | Keluar dari perintah yang sedang aktif                                                    |
+| Ctrl + D     | Keluar dari mode REPL                                                                     |
+| Tombol Tab     | Melengkapi perintah tanpa harus mengetik ulang                                          |
+| Tombol Panah Atas dan Bawah     | Perintah sebelum dan sesudah yang telah di gunakan dalam mode REPL     |
 
 Alhamdulillah pembahasan mode REPL Node Js telah selesai, apabila repository ini bermanfaat jangan lupa di share ke teman - teman yang lain agar semakin banyak yang belajar. <br>
 _Thank You! 
