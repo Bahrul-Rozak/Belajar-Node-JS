@@ -1,0 +1,26 @@
+Setelah kita mempelajari dasar-dasar penggunaan Node Js tidak lengkap rasanya jika kita tidak membuat sebuah project.
+
+### Mengapa sih harus ada project?
+
+Mungkin ini sekian banyak dari pertanyaan teman-teman dan tentu saya sendiri mengapa harus ada project? Dengan membuat project tentunya kita dapat mengimplementasikan apa saja yang sudah kita pelajari. Nah hari ini kita akan terlebih dahulu melakukan persiapan untuk project yang akan kita buat.
+
+### Apa saja itu?
+
+1. Node JS
+   Di sini saya asumsikan bahwa teman-teman pasti sudah menginstall Node JS hehe
+2. MySQL Server
+   Di sini teman-teman dapat menggunakan XAMPP, MAMP atau LAMPP
+3. Code Editor
+   Boleh menggunakan visual studio code, sublime, atom dll hehehe
+4. Browser
+5. Lets go !!
+
+### Deskripsi Project
+
+Nama Project : Aplikasi CRUD <br>
+Tools : Visual Studio Code, Browser, LAMPP <br>
+udah itu aja wkwkwk
+
+### Feature
+
+CRUD sederhana wkwk
