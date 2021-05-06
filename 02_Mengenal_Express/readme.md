@@ -39,7 +39,7 @@ Ajaib min :v dan untuk saat ini kalian telah berhasil melakukan setup workspace 
 
 ### Membuat Web Server
 
-Web server adalah perangkat lunak yang berfungsi sebagai penerima permintaan yang dikirimkan melalui browser kemudian memberikan tanggapan permintaan dalam bentuk halaman situs web atau lebih umumnya dalam dokumen HTML, tapi bisa juga berupa suara, gambar, json, xml atau lainnya.
+Web server adalah perangkat lunak yang berfungsi sebagai penerima permintaan yang dikirimkan melalui browser kemudian memberikan tanggapan permintaan dalam bentuk halaman situs web atau lebih umumnya dalam dokumen HTML, tapi bisa juga berupa suara, gambar, json, xml dan masih banyak yang lainnya.
 <br>
 Pada project buatlah file baru dengan nama index.js yang isinya seperti berikut ini.
 
