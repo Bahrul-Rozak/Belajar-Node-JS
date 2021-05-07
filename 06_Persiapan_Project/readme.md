@@ -9,7 +9,7 @@ Mungkin ini sekian banyak dari pertanyaan teman-teman dan tentu saya sendiri men
 1. Node JS <br>
    Di sini saya asumsikan bahwa teman-teman pasti sudah menginstall Node JS hehe
 2. MySQL Server <br>
-   Di sini teman-teman dapat menggunakan [XAMPP](https://www.apachefriends.org/index.html), [MAMP](https://www.mamp.info/en/windows/) atau LAMPP
+   Di sini teman-teman dapat menggunakan [XAMPP](https://www.apachefriends.org/index.html), [MAMP](https://www.mamp.info/en/windows/) atau [LAMPP](https://github.com/Bahrul-Rozak/configuration-for-XAMPP)
 3. Code Editor <br>
    Boleh menggunakan visual studio code, sublime, atom dll hehehe
 4. Browser <br>
