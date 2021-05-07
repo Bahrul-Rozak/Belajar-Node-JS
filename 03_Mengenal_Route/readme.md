@@ -72,6 +72,7 @@ app.get('/about', (req, res) => {
     res.send('ini rute /about')
 })
 ```
+
 Ketika server dijalankan, kita telah memiliki 2 rute yaitu rute / dan /about <br>
 
 Catatan: <br>
