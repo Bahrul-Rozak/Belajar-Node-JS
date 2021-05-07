@@ -1,4 +1,4 @@
-Setelah kita mempelajari dasar-dasar penggunaan Node Js tidak lengkap rasanya jika kita tidak membuat sebuah project.
+Setelah kita mempelajari dasar-dasar penggunaan Node Js tidak lengkap rasanya jika kita tidak membuat sebuah project. Tapi sebelum itu mari kita awali dengan membaca bismillahirrahmanirrahim
 
 ### Mengapa sih harus ada project?
 
