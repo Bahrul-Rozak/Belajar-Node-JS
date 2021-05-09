@@ -28,7 +28,7 @@ console.log("Server berjalan pada port 5000");
 ```
 
 Kemudian buatlah database pada mysql, boleh menggunakan phpmysql biar lebih cepat dengan nama express_db (hanya contoh saja). Tapi sebelum itu nyalakan LAMPP Anda, kemudian masuk localhost <br>
-![LAMPP](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/image/LAMPP.png)
+![LAMPP](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/image/LAMPP.png)<br>
 ![LocalHost]()
 Edit kembali server.js dan tambahkan kode untuk koneksi express dengan mysql seperti berikut ini.
 
