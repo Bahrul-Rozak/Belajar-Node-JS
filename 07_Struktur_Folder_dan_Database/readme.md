@@ -14,8 +14,8 @@ npm install mysql
 npm install hbs
 ```
 
-dan akan muncul depedencies pada package.json Anda
-![depedencies]()
+dan akan muncul depedencies pada package.json Anda <br>
+![depedencies](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/image/depedencies.png)
 Buat file Buatlah file server server.js untuk menjalankan server nodejs. Tambahkan kode berikut
 
 ```
