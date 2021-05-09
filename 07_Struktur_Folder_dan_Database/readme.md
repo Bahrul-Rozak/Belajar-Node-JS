@@ -47,3 +47,5 @@ if (err) throw err;
 console.log("Mysql Terhubung");
 });
 ```
+Kemudian jalankan server dan Alhamdulillah server telah terhubung dengan database <br>
+
