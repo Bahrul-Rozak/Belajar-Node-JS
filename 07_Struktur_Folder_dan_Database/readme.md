@@ -4,8 +4,8 @@ Setelah semua tools sudah dipersiapkan kini saatnya membuat struktur untuk proje
 
 1. Buat folder baru untuk project Anda <br>
    ![projectBaru](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/image/newProject.png)
-2. Kemudian masuk ke directori project Anda dan seperti biasa npm init untuk mendapatkan file package.json hehehe Kemudian isikan beberapa pertanyaan seperti versi, author dan sebagainya
-   ![npminit]()
+2. Kemudian masuk ke directori project Anda dan seperti biasa npm init untuk mendapatkan file package.json hehehe Kemudian isikan beberapa pertanyaan seperti versi, author dan sebagainya <br>
+   ![npminit](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/image/npm_init.png)
 3. Kemudian Install package express, mysql, dan hbs dengan cara :
 
 ```
