@@ -39,16 +39,16 @@ app.get("/", (req, res) => {
 ### UPDATE
 ```
 app.post("/update", (req, res) => {
-let sql =
-"UPDATE product SET product_name='" +
-req.body.product_name +
-"', product_price='" +
-req.body.product_price +
-"' WHERE id=" +
-req.body.id;
-conn.query(sql, (err, results) => {
-if (err) throw err;
-res.redirect("/");
-});
+  let sql =
+    "UPDATE product SET product_name='" +
+    req.body.product_name +
+    "', product_price='" +
+    req.body.product_price +
+    "' WHERE id=" +
+    req.body.id;
+  conn.query(sql, (err, results) => {
+    if (err) throw err;
+    res.redirect("/");
+  });
 });
 ```
