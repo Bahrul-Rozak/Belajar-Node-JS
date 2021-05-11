@@ -16,3 +16,4 @@ Kemudian tambahkan code berikut ke dalam file server.js sebagai controller
 ### DELETE
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/DELETE.png) <br>
 Kemudian buat file untuk ditampilkan ke client pada folder views dengan nama file list.hbs
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/views.png)
