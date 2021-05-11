@@ -24,3 +24,15 @@ app.post("/save", (req, res) => {
   });
 });
 ```
+### READ
+```
+app.get("/", (req, res) => {
+  let sql = "SELECT * FROM product";
+  conn.query(sql, (err, results) => {
+    if (err) throw err;
+    res.render("list", {
+      results: results,
+    });
+  });
+});
+```
