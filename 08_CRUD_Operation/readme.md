@@ -8,22 +8,7 @@ Sehingga menjadi seperti berikut <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/add%20set%20view.png) <br>
 Kemudian tambahkan code berikut ke dalam file server.js sebagai controller
 ### CREATE
-```
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-
-app.post("/save", (req, res) => {
-  let data = {
-    product_name: req.body.product_name,
-    product_price: req.body.product_price,
-  };
-  let sql = "INSERT INTO product SET ?";
-  conn.query(sql, data, (err, results) => {
-    if (err) throw err;
-    res.redirect("/");
-  });
-});
-```
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/CREATE.png)
 ### READ
 ```
 app.get("/", (req, res) => {
