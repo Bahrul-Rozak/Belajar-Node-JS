@@ -24,7 +24,7 @@ kemudian jalankan dengan perintah
 node server.js
 ```
 seperti ini <br>
-
-kemudian masuk ke localhost:8000 dan 
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/run.png)
+kemudian masuk ke localhost:8000 dan cobalah lakukan operasi CRUD
 
 
