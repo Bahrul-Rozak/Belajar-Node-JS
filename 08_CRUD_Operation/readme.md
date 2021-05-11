@@ -3,4 +3,6 @@ Setelah database dan struktur folder project dibuat saatnya menambahkan operasi 
 npm install body-parser
 ```
 dan lihat akan ada depedencies baru pada package.json Anda
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/depedencies.png)
+kemudian buat folder dengan nama views dan buat file dengan nama product_view.hbs seperti ini 
 
