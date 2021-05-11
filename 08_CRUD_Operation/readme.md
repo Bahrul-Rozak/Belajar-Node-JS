@@ -5,4 +5,5 @@ const path = require("path");
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "hbs");
 ```
-Sehingga menjadi seperti berikut 
+Sehingga menjadi seperti berikut <br>
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/add%20set%20view.png)
