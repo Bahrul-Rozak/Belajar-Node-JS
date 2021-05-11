@@ -18,6 +18,6 @@ product_price INT(11)
 seperti ini <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/localhost.png)<br>
 kemudian tekan go <br>
-dan tambahkan code berikut ke dalam file server.js
+dan tambahkan ![code](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/source-code/server.js) berikut ke dalam file server.js
 
 
