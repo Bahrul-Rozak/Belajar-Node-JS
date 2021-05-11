@@ -10,17 +10,7 @@ Kemudian tambahkan code berikut ke dalam file server.js sebagai controller
 ### CREATE
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/CREATE.png)
 ### READ
-```
-app.get("/", (req, res) => {
-  let sql = "SELECT * FROM product";
-  conn.query(sql, (err, results) => {
-    if (err) throw err;
-    res.render("list", {
-      results: results,
-    });
-  });
-});
-```
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/READ.png)
 ### UPDATE
 ```
 app.post("/update", (req, res) => {
