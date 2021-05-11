@@ -28,7 +28,7 @@ seperti ini <br>
 kemudian masuk ke localhost:8000 dan cobalah lakukan operasi CRUD <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/CRUD.png) <br>
 
-Menambahkan produk <br>
+<br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/add.png)
 
 ### Preview
