@@ -14,3 +14,4 @@ Kemudian tambahkan code berikut ke dalam file server.js sebagai controller
 ### UPDATE
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/UPDATE.png)
 ### DELETE
+![](
