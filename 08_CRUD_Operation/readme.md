@@ -31,4 +31,14 @@ kemudian masuk ke localhost:8000 dan cobalah lakukan operasi CRUD <br>
 Menambahkan produk <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/add.png)
 
+### Preview
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/CRUD.gif)<br>
+
+Alhamdulillah Materi Node Js sudah selesai dan kita sudah mempelajari mulai dari apa itu node JS, kemudian install node js, mengenal request dan respon dan masih banyak lagi dan terakhir kita juga telah membuat project yang sederhana. <br>
+Apabila repositori ini bermanfaat jangan lupa share ke yang lain agar bermanfaat juga untuk teman - teman yang lain<br>
+Mohon maaf bila ada kesalahan penulisan atau kata-kata admin yang tidak sopan
+Thank you! <br>
+Sampai jumpa di materi berikutnya ! <br>
+Assalamualaikum!
+
 
