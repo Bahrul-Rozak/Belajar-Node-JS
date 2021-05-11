@@ -12,18 +12,5 @@ Kemudian tambahkan code berikut ke dalam file server.js sebagai controller
 ### READ
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/READ.png)
 ### UPDATE
-```
-app.post("/update", (req, res) => {
-  let sql =
-    "UPDATE product SET product_name='" +
-    req.body.product_name +
-    "', product_price='" +
-    req.body.product_price +
-    "' WHERE id=" +
-    req.body.id;
-  conn.query(sql, (err, results) => {
-    if (err) throw err;
-    res.redirect("/");
-  });
-});
-```
+![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/UPDATE.png)
+### DELETE
