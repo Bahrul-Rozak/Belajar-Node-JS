@@ -9,8 +9,8 @@ Halo semuanya!!, Selamat datang di repositori belajar node js dan di sini kita a
 | 05     | [Mengenal Request & Response](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/04_Mengenal_Request) |
 | 06     | [Router & Controller](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/05_Router_dan_Controller)    |
 | 07     | [Persiapan Project](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/06_Persiapan_Project)          |
-| 08     | [Struktur Folder & Database](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/readme.md) |
-| 09     | Insya Allah Coming Soon |
+| 08     | [Struktur Folder & Database](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database) |
+| 09     | [CRUD Operation](https://github.com/Bahrul-Rozak/Belajar-Node-JS/tree/main/08_CRUD_Operation)|
 
 
 ### Apa itu Node JS?
