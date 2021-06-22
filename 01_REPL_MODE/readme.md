@@ -18,10 +18,10 @@ Untuk menjalankan mode REPL ini, ketikan node pada terminal kalian kemudian ENTE
 Di Mode REPL ini Anda dapat melakukan operasi matematika dasar seperti penjumlahan, pengurangan,pembagian, perkalian, mantap :v <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/01_REPL_MODE/image/operasimatematika.png) <br>
 dan tentu tidak lupa bahwa Node JS ini adalah runtime enviroment Javascript, maka Anda dapat menulis code JavaScript dan mengeksekusinya <br>
-```
+```javascript
 console.log("Hai!!")
 ```
-```
+```javascript
 var x = 5 
 var i
 for (i=0; i <x; i++){
