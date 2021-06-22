@@ -11,7 +11,7 @@ Untuk dapat menggunakan express Anda terlebih dahulu harus menyiapkan satu buah 
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/projectfolder.png) <br>
 Kemudian lakukan inisialisasi pada project Anda dengan menggunakan perintah <br>
 
-```
+```node
 npm init
 ```
 
@@ -43,7 +43,7 @@ Web server adalah perangkat lunak yang berfungsi sebagai penerima permintaan yan
 <br>
 Pada project buatlah file baru dengan nama index.js yang isinya seperti berikut ini.
 
-```
+```javascript
 const express = require("express");
 const app = express();
 
@@ -61,7 +61,7 @@ module.exports = app;
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/02_Mengenal_Express/image/webserver.png) <br>
 dan untuk menjalankan Anda ketik perintah pada terminal <br>
 
-```
+```javascript
 node index.js
 ```
 
