@@ -11,7 +11,7 @@ Mendengar kata atau istilah Route pasti teman-teman akan terbayang bahwa itu ada
 
 Pada express teman-teman tidak perlu khawatir masalah penggunaan Route atau rute karena HTTP Methode ini pada express telah menyediakan function yang biasa dipakai yaitu: get() , post() , put() , delete() , patch().
 
-```
+```javascript
 app.get("/", (req, res) => {
 /* */
 });
@@ -30,7 +30,7 @@ app.patch("/", (req, res) => {
 ```
 
 Yuk langsung saja kita coba membuat Route sederhana 
-```
+```javascript
 const express = require("express");
 const app = express();
 app.get("/", (req, res) => {
@@ -44,7 +44,7 @@ Jika Anda jalankan maka akan muncul seperti ini <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/03_Mengenal_Route/image/rute.png) <br>
 
 kemudian  tambahkan rute /about 
-```
+```javascript
 app.get('/', (req, res) => {
     res.send('ini rute utama atau root')
 })
@@ -56,7 +56,7 @@ Jika Anda jalankan maka akan muncul seperti ini <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/03_Mengenal_Route/image/about.png) <br>
 
 Sehingga kode menjadi seperti ini 
-```
+```javascript
 const express = require("express");
 const app = express();
 app.get("/", (req, res) => {
