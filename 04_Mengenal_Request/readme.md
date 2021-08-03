@@ -9,7 +9,7 @@ Tapi sebelum kita mempelajari Request mari kita berkenalan dulu dengan HTTP Meth
 Mari perhatikan gambar berikut ini <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/04_Mengenal_Request/image/req.png) <br>
 Berdasarkan gambar dapat kita lihat bahwasanya kita atau user melakukan request terhadap server dengan method http melalui url atau alamat server tersebut. HTTP method yang telah dijelaskan sebelumnya dipakai sebagai pengenal untuk mengirimkan permintaan terhadap server. Yuk langsung saja ketik atau tambahkan code berikut ke file index.js
-```
+```javascript
 const express = require("express");
 const app = express();
 app.get("/", function(request, response) {
@@ -45,7 +45,7 @@ Express telah menyediakan properti-properti yang bertindak sebagai request, beri
 Nah dari sekian banyak properti kita akan mencoba menggunakan salah satunya saja yaitu .query <br>
 ?detail=harga&produk=baru <br>
 Kemudian kita tambahkan code berikut dan uji lagi dengan insomnia :v <br>
-```
+```javascript
 app.get("/halaman-website", (req, res) => {
     res.send("halaman-website dengan http " + req.query.detail + " dan " + req.query.produk);
 });
@@ -55,7 +55,7 @@ Penulisan query pada request diawali dengan tanda ? setelah endpoint, dan jika a
 
 ### Response
 Ada satu lagi yang lupa saya buat yaitu response, Kebalikan dari request, response adalah proses layanan yang diberikan server pada client yang melakukan request. Sama halnya dengan request, function atau method response sangat banyak yang disediakan oleh express. contoh penggunaan .redirect()
-```
+```javascript
 app.get("/profile", (req, res) => {
   res.redirect("/login");
 });
