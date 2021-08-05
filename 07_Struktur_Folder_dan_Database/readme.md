@@ -18,7 +18,7 @@ dan akan muncul depedencies pada package.json Anda <br>
 ![depedencies](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/image/depedencies.png)
 Buatlah file server server.js untuk menjalankan server nodejs. Tambahkan kode berikut
 
-```
+```javascript
 const express = require("express");
 const app = express();
 //server listening
