@@ -8,7 +8,7 @@ kemudian buat folder dengan nama views dan buat file dengan nama product_view.hb
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/image/folder.png)<br>
 Kemudian tambahkan [code](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/08_CRUD_Operation/source-code/views/product_view.hbs) berikut ke file product_view.hbs <br>
 dan masuk ke local host untuk membuat table product dengan perintah 
-```
+```mysql
 CREATE TABLE product(
 product_id INT(11) PRIMARY KEY AUTO_INCREMENT,
 product_name VARCHAR(200),
