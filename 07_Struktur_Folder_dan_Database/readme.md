@@ -31,7 +31,7 @@ Sebelum itu nyalakan LAMPP Anda, kemudian masuk localhost <br>
 Kemudian buatlah database pada mysql, boleh menggunakan phpmysql biar lebih cepat dengan nama express_db (hanya contoh saja).
 ![LocalHost](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/image/localhost.png)<br>
 Edit kembali server.js dan tambahkan kode untuk koneksi express dengan mysql seperti berikut ini.
-```
+```javascript
 const mysql = require("mysql");
 //konfigurasi koneksi
 const conn = mysql.createConnection({
