@@ -49,4 +49,7 @@ console.log("Mysql Terhubung");
 ```
 Kemudian jalankan server dan Alhamdulillah server telah terhubung dengan database <br>
 ![](https://github.com/Bahrul-Rozak/Belajar-Node-JS/blob/main/07_Struktur_Folder_dan_Database/image/serverterhubung.png)
+<br>
+[Kembali ke materi](https://github.com/Bahrul-Rozak/Belajar-Node-JS)
+
 
