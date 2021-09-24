@@ -58,3 +58,5 @@ Node Js diyakini dapat menerima proses permintaan yang dikirimkan client dalam j
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-white?style=plastic&logo=Gitlab&link=https://gitlab.com/bahrulrozak1453)](https://gitlab.com/bahrulrozak1453)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-blue?style=plastic&logo=Hashnode&link=https://hashnode.com/@Rozak1453)](https://hashnode.com/@Rozak1453)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=Telegram&link=https://t.me/zakcodes)](https://t.me/zakcodes)
+[![Paypal Badge](https://img.shields.io/badge/-Paypal-blue?style=plastic&logo=Paypalm&link=https://)](#)
+
