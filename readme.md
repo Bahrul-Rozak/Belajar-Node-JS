@@ -49,3 +49,12 @@ Node Js diyakini dapat menerima proses permintaan yang dikirimkan client dalam j
 
    _Jika Anda menemukan kesalahan penulisan atau code sudah deprecated :v silahkan laporkan ke [Admin](https://t.me/zakcodes)_<br>
    Terima Kasih
+   
+### Follow Our Social Media
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:@gmail.com)](mailto:@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/bahrul-rozak-a89317212)](https://id.linkedin.com/in/bahrul-rozak-a89317212) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/rozak.js/)](https://www.instagram.com/rozak.js/)
+[![Protonmail Badge](https://img.shields.io/badge/-Protonmail-white?style=plastic&logo=Protonmail&link=mailto:@protonmail.com)](mailto:@protonmail.com)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-white?style=plastic&logo=Gitlab&link=https://gitlab.com/bahrulrozak1453)](https://gitlab.com/bahrulrozak1453)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-blue?style=plastic&logo=Hashnode&link=https://hashnode.com/@Rozak1453)](https://hashnode.com/@Rozak1453)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=Telegram&link=https://t.me/zakcodes)](https://t.me/zakcodes)
